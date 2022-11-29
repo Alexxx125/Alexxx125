@@ -1,11 +1,11 @@
 <h1 align="center">Hello! 👋 My name is Xincheng Zhou</h1>
 <h3 align="center">I'm a passionate Full-Stack Software Engineer | Hack Reactor Alumni</h3>
 
-- 📝 Know about my experiences in my resume [https://docs.google.com/document/d/1VbakAoOR61r16IP-KJ35sUqR1wCdk6Gc9IyuoEUYcUI/edit?usp=sharing](https://docs.google.com/document/d/1VbakAoOR61r16IP-KJ35sUqR1wCdk6Gc9IyuoEUYcUI/edit?usp=sharing)
+- 📝 Know about my moreexperiences in my [resume](https://docs.google.com/document/d/1VbakAoOR61r16IP-KJ35sUqR1wCdk6Gc9IyuoEUYcUI/edit?usp=sharing)
 
 - 📫 How to reach me **prifvibe@gmail.com**
 
-- 👯 Know about my experiences in [Linkedin](https://www.linkedin.com/in/alexxx125-zhou/)
+- 👯 Know more about me in [Linkedin](https://www.linkedin.com/in/alexxx125-zhou/)
 
 - ⚡ Fun fact **I like different innovative things, like to focus on details, like to inspire people. I have a rich imagination, creativity with excellent execution.**
 
